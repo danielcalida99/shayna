@@ -26,7 +26,7 @@
                         <h5>Information</h5>
                         <ul>
                             <li><a href="#">About Us</a></li>
-                            <li><a href="#">Checkout</a></li>
+                            <li><a href="#">Checkoutasdas</a></li>
                             <li><a href="#">Contact</a></li>
                             <li><a href="#">Serivius</a></li>
                         </ul>
